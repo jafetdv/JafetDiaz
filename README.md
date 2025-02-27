@@ -18,9 +18,9 @@
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 🚀 **Proyectos Destacados:**  
-- 📌 [Análisis de Retención de Clientes en Model Fitness](https://github.com/tu-usuario/proyecto-model-fitness)  
-- 📌 [Optimización de Gastos de Marketing para Y.Afisha](https://github.com/tu-usuario/proyecto-marketing)  
-- 📌 [Segmentación de Clientes para una Tienda Online](https://github.com/tu-usuario/proyecto-segmentacion)  
+- 📌 [Análisis de Retención de Clientes en Model Fitness](https://github.com/jafetdv/Proyecto-Gym)  
+- 📌 [Optimización de Gastos de Marketing para Y.Afisha](https://github.com/jafetdv/Proyecto-Marketing)  
+- 📌 [Segmentación de Clientes para una Tienda Online](https://github.com/jafetdv/Proyecto-Alimentos)  
 
 📫 **Contacto:**  
-[LinkedIn](https://www.linkedin.com/in/tuusuario/) | [Email](mailto:tuemail@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/jafetdv) | [Email](mailto:jafetexchel@hotmail.com)  
