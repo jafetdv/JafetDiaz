@@ -2,7 +2,7 @@
 
 🎯 **Data Analyst | Python | SQL | Tableau | Machine Learning**  
 
-📊 Apasionado por el análisis de datos y la toma de decisiones basada en datos. Busco oportunidades para desarrollar mi carrera en el mundo de los datos.  
+📊 Apasionado por el análisis de datos y la toma de decisiones basada en datos. Busco oportunidades para desarrollar mi carrera en este increíble mundo. 
 
 🔍 **Áreas de interés:**  
 - Análisis Exploratorio de Datos (EDA) 📈  
